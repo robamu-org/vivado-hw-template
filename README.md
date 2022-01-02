@@ -6,12 +6,12 @@ Empty template for a Xilinx Vivado project using a fork of the
 
 # Usage
 
-It is recommended to read the [digilent-vivado-scripts](https://github.com/robamu/digilent-vivado-scripts).
+It is recommended to read the [digilent-vivado-scripts](https://github.com/robamu/digilent-vivado-scripts)
 on how to use the respective Python script `git_vivado.py` to use version
 control with Vivado projects.
 
 After creating a repository based on this template, you can initialize
-the scripts with the following git commands:
+the submodule containing the scripts with the following git commands:
 
 ```sh
 git submodule init
