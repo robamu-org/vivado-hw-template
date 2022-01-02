@@ -4,11 +4,14 @@ Vivado Hardware Project Template
 Empty template for a Xilinx Vivado project using a fork of the 
 [digilent-vivado-scripts](https://github.com/robamu/digilent-vivado-scripts).
 
+It provides helper scripts and a skeleton project to create a Vivado
+project with version control.
+
 # Usage
 
-It is recommended to read the [digilent-vivado-scripts](https://github.com/robamu/digilent-vivado-scripts)
-on how to use the respective Python script `git_vivado.py` to use version
-control with Vivado projects.
+It is recommended to read the [digilent-vivado-scripts](https://github.com/Digilent/digilent-vivado-scripts)
+first. It contains general information and also specifies how to use the
+respective Python script `git_vivado.py` to use version control with Vivado projects.
 
 After creating a repository based on this template, you can initialize
 the submodule containing the scripts with the following git commands:
